@@ -18,11 +18,11 @@ Grab the latest DLL from releases and include it as a reference in your C# proje
 
 ## Roadmap
 - [x] Users API
-- [] Account Information API
-- [] Avatar API
-- [] Badges API
-- [] Catalog API
-- [] Develop API
-- [] Groups API
+- [ ] Account Information API
+- [ ] Avatar API
+- [ ] Badges API
+- [ ] Catalog API
+- [ ] Develop API
+- [ ] Groups API
 
 
