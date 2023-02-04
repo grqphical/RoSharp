@@ -1,4 +1,4 @@
-# RoSharp
+<div align="center" float="left"><span><img src="rosharp.png" width="240" height="180"></span><h1>RoSharp</h1></div>
 An asynchronous API wrapper for the Roblox API written for .NET 6
 
 **NOTE: RoSharp is in active development and may not be stable/complete. I take no responsibility for any harm done with RoSharp**
