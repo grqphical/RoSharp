@@ -1,6 +1,8 @@
 # RoSharp
 An asynchronous API wrapper for the Roblox API written for .NET 6
 
+**NOTE: RoSharp is in active development and may not be stable/complete. I take no responsibility for any harm done with RoSharp**
+
 ## Features
 - Fully Asynchronous
 - Returns results of API calls as custom C# classes
