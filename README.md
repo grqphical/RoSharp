@@ -2,7 +2,6 @@
 
 ![Maintainer](https://img.shields.io/badge/maintainer-grqphical07-blue)
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/grqphical07/RoSharp/blob/master/LICENSE.txt)
-[![GitHub latest commit](https://badgen.net/github/last-commit/grqphical07/RoSharp)](https://GitHub.com/grqphical07/RoSharp/commit/)
 [![GitHub stars](https://img.shields.io/github/stars/grqphical07/RoSharp.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/grqphical07/RoSharp/stargazers/)
 
 An asynchronous API wrapper for the Roblox API written for .NET 6
